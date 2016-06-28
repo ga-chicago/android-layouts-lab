@@ -13,9 +13,9 @@ You'll include each layout in your **MainActivity**. You can do this using the `
 
 ```xml
 <include
-android:layout_width="fill_parent"
-android:layout_height="wrap_content"
-layout="@layout/yourlayout" />
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  layout="@layout/yourlayout" />
 ```
 
 >> _Reminder_: Each Android view requires a **layout_width** and a **layout_height**.
