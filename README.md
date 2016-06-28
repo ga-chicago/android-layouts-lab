@@ -1,4 +1,5 @@
-# android-layouts-lab
+# Android Layouts Lab
+
 Practice creating layouts &amp; Views with popular layout designs!
 
 ## The Goal
